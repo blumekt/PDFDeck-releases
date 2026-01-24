@@ -1,8 +1,8 @@
-version: 3.1.0
+version: 3.2.0
 files:
-  - url: PDFDeck_Setup_3.1.0.exe
-    sha512: FDJ3ZX4fyskoJLlnR9OnS1dDJpgwZPYYWJthN7TxtdrmCekDhxZqqljzYEXGUOggMK4Ef4P5O+he570EGNUT1w==
-    size: 39446613
-path: PDFDeck_Setup_3.1.0.exe
-sha512: FDJ3ZX4fyskoJLlnR9OnS1dDJpgwZPYYWJthN7TxtdrmCekDhxZqqljzYEXGUOggMK4Ef4P5O+he570EGNUT1w==
-releaseDate: '2026-01-22T22:15:12.651538+00:00'
+  - url: PDFDeck_Setup_3.2.0.exe
+    sha512: Cfmsa6WhzC7HiCW0KztvTa7r3Mmn1HNXRKp3E7guAcd1r3K6Unv7Nm9zL0n1InNhgwGdT+hREnJL2ZIV3fui0g==
+    size: 39445495
+path: PDFDeck_Setup_3.2.0.exe
+sha512: Cfmsa6WhzC7HiCW0KztvTa7r3Mmn1HNXRKp3E7guAcd1r3K6Unv7Nm9zL0n1InNhgwGdT+hREnJL2ZIV3fui0g==
+releaseDate: '2026-01-24T15:57:08.922502+00:00'
